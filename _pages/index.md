@@ -14,7 +14,7 @@ permalink: /
 以下テンプレート
 
 # お品書き
-![image](GHPages_Website/aseets/IMG_6771.png)
+![image](GHPages_WebSite/aseets/IMG_6771.png)
 # アカウント・連絡先
 
 [wavebox](https://wavebox.me/wave/ba1mrvn00va6itp0/)
