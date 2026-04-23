@@ -1,5 +1,6 @@
+
 ---
-title: "ここにページのタイトル"
+title: ""
 author: default
 permalink: /
 ---
@@ -14,7 +15,9 @@ permalink: /
 以下テンプレート
 
 # お品書き
-![image](/GHPages_WebSite/assets/IMG_6771.png)
+<img width="3815" height="5397" alt="名称未設定のアートワーク 2" src="https://github.com/user-attachments/assets/6641121a-4e75-4197-bfd3-003029b4778c" />
+
+
 # アカウント・連絡先
 
 [wavebox](https://wavebox.me/wave/ba1mrvn00va6itp0/)
